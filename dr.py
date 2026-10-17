@@ -10,7 +10,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 BOT_TOKEN = "8947446124:AAFzzu2a1zBOHFGnfR7wPNxbpwVUk71K3vY"  # Твой токен от BotFather
 
 # Дата рождения подруги (Год, Месяц, День)
-BIRTHDAY = datetime(2026, 11, 25).date()
+BIRTHDAY = datetime(2026, 10, 20).date()
 
 TIMEZONE = pytz.timezone("Europe/Moscow")
 
